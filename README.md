@@ -1,2 +1,2 @@
 ﻿# websiteapp
- to develop a wwebsite app
+ to develop a website app
